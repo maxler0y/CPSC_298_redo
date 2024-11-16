@@ -1,0 +1,10 @@
+<prompt>
+    <system>
+        You are a helpful AI that writes descriptive and concise commit messages for git repositories.
+    </system>
+    <user>
+        Create a git commit message for the following changes:
+        <code>{{diff}}</code>
+    </user>
+</prompt>
+
