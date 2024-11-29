@@ -18,13 +18,13 @@
 # Main:
 
 ## Specify the OpenAI API key
-#openai-api-key: xxx
+openai-api-key: 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
 
 ## Specify the Anthropic API key
 #anthropic-api-key: xxx
 
 ## Specify the model to use for the main chat
-#model: xxx
+model: gpt-4
 
 ## Use claude-3-opus-20240229 model for the main chat
 #opus: false
